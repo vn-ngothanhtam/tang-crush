@@ -5,10 +5,10 @@ const CONFIG = {
     Tú nhớ ăn nhiều vào
     Dạo này Tâm thấy Tú iu của Tâm ốm quá rồi đó`,
     btnIntro: 'Dạ',
-    title: 'Tâm có mua ít bánh cho Tú rồi đó ráng ăn hết nha 😙',
+    title: 'Mày có bị khùng không 😙',
     desc: 'Ăn nhiều vào đừng để đói, Tâm lo ',
-    btnYes: 'Dạ Tú biết rồi ạ<33',
-    btnNo: 'Không, đừng có dụ :3',
+    btnYes: 'Không <33',
+    btnNo: 'Có:3',
     question:'Hôm nay Tú bất ngờ hong, vui hong nè <3',
     btnReply: 'Gửi tới Tâm <3',
     reply: 'Dạ Tú bất ngờ lắm, yêu Tâm quá đi <33333333',
